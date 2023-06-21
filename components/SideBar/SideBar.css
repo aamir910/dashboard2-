@@ -1,0 +1,20 @@
+
+.Sidebar
+{
+    display: flex;
+    flex-direction: column;
+    padding-top: 4rem;
+        position: relative  ; 
+
+}
+
+
+
+.logo
+{
+    display: flex;
+}
+.logo>img{
+    height: 40px;
+    width: 40px;
+}
