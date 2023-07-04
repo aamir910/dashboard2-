@@ -32,6 +32,7 @@ font-family: 'Poppins', sans-serif;
 }
 .AppGrass {
   display: grid; 
+  grid-template-columns:  11rem auto  20rem ;
   background-color: var(--glass); 
   border-radius: 2rem  ; 
   height: 97%;
