@@ -1,0 +1,18 @@
+.updates{
+    background-color: white;
+    width: 85%;
+    padding: 1rem; 
+border-radius: 0.7rem ;
+
+
+}
+.update{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    
+}
+.update>img {
+    width: 30px;
+    height: 30px;
+}
