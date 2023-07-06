@@ -14,7 +14,7 @@ import {UilTimes}   from '@iconscout/react-unicons'
 
 const Card = (props) => {
     
-    const [expanded, setExpanded] = useState(true);
+    const [expanded, setExpanded] = useState(false);
 
     return (
 
