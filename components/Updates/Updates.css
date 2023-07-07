@@ -3,6 +3,11 @@
     width: 85%;
     padding: 1rem; 
 border-radius: 0.7rem ;
+display: flex;
+flex-direction: column;
+padding: 1rem;
+gap: 1rem;
+font-size: 13px;
 
 
 }
@@ -10,9 +15,10 @@ border-radius: 0.7rem ;
     display: flex;
     flex-direction: row;
     font-size: 15px;
+    gap: 0.5rem;
     
 }
 .update>img {
-    width: 30px;
-    height: 30px;
+    width: 3.2rem;
+    height: 3.2rem;
 }
